@@ -3,8 +3,8 @@ import pynder
 import re
 import random
 
-FBTOKEN = "EAAGm0PX4ZCpsBAESUmHH1FLGn6LSrPiHP72sKI8qtdZCGuJUHOEDCvSkbyFuII4NI3cb9mWxOmmbyyD4mS4GcfofrxjxP1LcwBoeIT1XbKnVoBfTPpMmPRQKG0n6aNZB0BxdiZA0SP71zUh10qS2z2tYz24w206xZAsgKFy2rawZDZD"
-FBID = "100002192977924"
+FBTOKEN = "##################"
+FBID = "###################"
 
 session = pynder.Session(FBID, FBTOKEN)
 matches = session.matches()
